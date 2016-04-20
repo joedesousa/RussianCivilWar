@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BasicJPanel()
+comment1.params=currentMap
+comment1.target=BasicJPanel(MapBoard)
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment2.text=\ Create\ a\ paintComponent()\ method\ to\ override\ the\ one\ in\r\n\ \ \ \ JPanel.This\ is\ where\ the\ drawing\ happens.\ We\ don't\ have\ \r\n\ \ \ \ to\ call\ it\ in\ our\ program,\ it\ gets\ called\ automatically\ \r\n\ \ \ \ whenever\ the\ panel\ needs\ to\ be\ redrawn,\ like\ when\ it\ is\ \r\n\ \ \ \ made\ visible\ or\ moved\ or\ whatever.\r\n
+numComments=3
